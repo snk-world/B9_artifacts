@@ -1,0 +1,22 @@
+{
+  "name": "b9_artifactory",
+  "version": "1.0.2",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\" text for test \\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snk-world/B9_artifacts.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snk-world/B9_artifacts/issues"
+  },
+  "homepage": "https://github.com/snk-world/B9_artifacts#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
