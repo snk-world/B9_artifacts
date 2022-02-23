@@ -1,8 +1,8 @@
 {
   "name": "b9_artifactory",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test",
-  "main": "index.js",
+  "main": "array.js",
   "scripts": {
     "test": "echo \\\" text for test \\\" && exit 1"
   },
